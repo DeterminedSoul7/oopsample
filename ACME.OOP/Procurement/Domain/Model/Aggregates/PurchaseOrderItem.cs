@@ -4,7 +4,7 @@ using oopsample.Shared.Domain.Model.ValueObjects;
 namespace oopsample.Procurement.Domain.Model.Aggregates;
 
     /// <summary>
-    /// Represents a purchase order item aggregate in the Procurement bounded context.
+    /// Represents a purchase order item aggregate in the Procurement bounded context. 
     /// Encapsulates the details of a single item in a purchase order, including the product id, quantity, and unit price.
     /// </summary>
 public class PurchaseOrderItem
