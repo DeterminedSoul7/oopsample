@@ -8,8 +8,4 @@
         <RootNamespace>oopsample</RootNamespace>
     </PropertyGroup>
 
-    <ItemGroup>
-      <Folder Include="Procurement\Domain\Model\Aggregates\" />
-    </ItemGroup>
-
 </Project>
